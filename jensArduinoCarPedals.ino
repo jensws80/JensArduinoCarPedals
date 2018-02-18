@@ -7,8 +7,8 @@
 // NOTE: This file is for use with Arduino Leonardo and  Arduino Micro only.
 //       Arduino Micro only.
 //
-// To get this program to work you need GPLv3 joystick libary from
-// https://github.com/MHeironimus/ArduinoJoystickLibrary/tree/version-2.0
+// To get this program to work you need MHeironimus GPLv3 joystick libary from
+// https://github.com/MHeironimus/ArduinoJoystickLibrary version-1.0
 //
 // by Jens Söderström jensws.com
 // 2016-11-01
