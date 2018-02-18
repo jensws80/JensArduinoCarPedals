@@ -16,7 +16,7 @@ Feel free to do pull request to this repository.
 8. Project Cars or another car simulator you like.
 
 # Welding potentiometer and Arduino together.
-<IMG SRC="https://github.com/jensws80/JensArduinoCarPedals/blob/master/electricalDrawings.jpg"></A>
+<IMG SRC="https://github.com/jensws80/JensArduinoCarPedals/blob/master/electricalDrawings.jpg?raw=true"></A>
 Connect Gas to A0, Brake to A1 and Clutch to A2. Connect each potentiometer to +5v and GND
 Programming Arduino and test
 
