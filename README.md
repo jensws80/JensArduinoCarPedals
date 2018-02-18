@@ -1,7 +1,8 @@
 # JensArduinoCarPedals
 
-This is my car simulator Arduino pedals with I work from time to time.
+This is my car simulator pedals for Arduino with I work with from time to time.
 This pedals have gas, brake and clutch and use a Arduino (Windows native drivers) to connect to usb port.
+Feel free to do pull request to this repository.
 
 All file you need you find in this git.
 <A HREF="https://github.com/jensws80/JensArduinoCarPedals/blob/master/jensArduinoCarPedals.ino">Download Arduino Project</A>
@@ -10,7 +11,7 @@ All file you need you find in this git.
 
 1. Arduino Pro Micro or any board based on ATmega32U4
 2. Usb cable between Arduino board and computer.
-3. 3 piece Slide Potentiometer 5kohm.
+3. 3 piece Slide Potentiometer 5kohm or hall sensors.
 4. 3 cheap styling pedals for cars.
 5. Spring
 6. Some metall to build pedal construction in
