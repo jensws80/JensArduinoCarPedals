@@ -47,5 +47,7 @@ I show some pics how i have done to give you idea how you can build yours.
 
 If you have done everything correct you now have som nice pedals to you car simulator. Probably I gona build version 2,0 of my pedals. I'm not 100% satisfied with the feeling in my pedals. Maybe i rebuild brake to hydraulic and try different springs on gas and clutch. I aslo plan to build some parts with my 3d-printer.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U09LJFdwUUU" frameborder="0" allowfullscreen></iframe>
+
 ## License
 This project is licensed under the terms of the GNU V.3 license.
