@@ -23,7 +23,7 @@ Programming Arduino and test
 For this you need to download MHeironimus/ArduinoJoystickLibrary (LGPL-3.0) and my Arduino project
 
 
-<A HREF="https://github.com/MHeironimus/ArduinoJoystickLibrary">MHeironimus/ArduinoJoystickLibrary</A><br>
+<A HREF="https://github.com/MHeironimus/ArduinoJoystickLibrary">MHeironimus/ArduinoJoystickLibrary Version 1.0</A><br>
 <A HREF="https://github.com/jensws80/JensArduinoCarPedals">My Arduino file</A>
 
 
