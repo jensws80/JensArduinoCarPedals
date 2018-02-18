@@ -42,17 +42,6 @@ After you choose your Arduino board you can go to tab test and test your potenti
 I build my pedal construction in steel and welding it together. One tricky part was to find spring with correct feeling. You have to test what you like. I also fond that 100mm from bottom to center of pedal was a good length for my foot.
 I show some pics how i have done to give you idea how you can build yours.
 
-Download 3d model of my pedals in format stl
-
-Download 3d model of my pedalsplate in format stl
-
-# Install potentiometer on to pedal construction.
-
-I have choose to mount my potentiometer in back of pedal console. When I press on a pedal potentiometer go from 0 to 5kohm. It may be a better solution to mount direct on pedal?
-
-# Settings in Project Cars
-
-Start Project Cars and go to Options/Controls/Edit assignments Choose Throttle and press on gas pedal. Do the same with Brake and Clutch
 
 # Test run in Project Cars
 
