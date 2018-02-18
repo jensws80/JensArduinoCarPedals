@@ -4,9 +4,6 @@ This is my car simulator pedals for Arduino with I work with from time to time.
 This pedals have gas, brake and clutch and use a Arduino (Windows native drivers) to connect to usb port.
 Feel free to do pull request to this repository.
 
-All file you need you find in this git.
-<A HREF="https://github.com/jensws80/JensArduinoCarPedals/blob/master/jensArduinoCarPedals.ino">Download Arduino Project</A>
-
 # Parts you need to this project
 
 1. Arduino Pro Micro or any board based on ATmega32U4
@@ -26,8 +23,8 @@ Programming Arduino and test
 For this you need to download MHeironimus/ArduinoJoystickLibrary (LGPL-3.0) and my Arduino project
 
 
-<A HREF="https://github.com/MHeironimus/ArduinoJoystickLibrary">MHeironimus/ArduinoJoystickLibrary</A>
-<A HREF="https://github.com/jensws80/JensArduinoCarPedals/blob/master/jensArduinoCarPedals.ino">My Arduino Project</A>
+<A HREF="https://github.com/MHeironimus/ArduinoJoystickLibrary">MHeironimus/ArduinoJoystickLibrary</A><br>
+<A HREF="https://github.com/jensws80/JensArduinoCarPedals">My Arduino file</A>
 
 
 Install libary and open jenswsArduinoPedal project.
