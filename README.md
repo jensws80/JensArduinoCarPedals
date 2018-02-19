@@ -1,8 +1,10 @@
 # JensArduinoCarPedals
 
-This is my car simulator pedals for Arduino with I work from time to time with.
-This pedals have gas, brake and clutch and use a Arduino (Windows native drivers) to connect to usb port.
-Feel free to do pull request to this repository.
+Car Simulator pedals for Arduino, I work with occasionally to develop.
+If you want to develop this project feel free to do pull request to this repository.
+
+This Arduino pedals have gas, brake and clutch and use a Arduino (Windows native drivers) to connect to usb port.
+
 
 # Parts you need to this project
 
@@ -38,7 +40,7 @@ Pedals drawings is done in Sketchup.
 
 # Test run in Project Cars
 
-See this you tube clip
+See this Youtube clip
 
 <A href="https://www.youtube.com/embed/U09LJFdwUUU">Youtube clip</A>
 
