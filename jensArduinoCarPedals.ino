@@ -2,8 +2,6 @@
 // This car simulator pedals program have gas, brake and clutch to connect to usb port.
 // No extra drives need to be installed in windows to get this to work.
 //
-// For more information how to connect and get this to work go too www.jensws.com/pedals
-//
 // NOTE: This file is for use with Arduino Leonardo and  Arduino Micro only.
 //       Arduino Micro only.
 //
@@ -12,6 +10,9 @@
 //
 // by Jens Söderström jensws.com
 // 2016-11-01
+//
+// This project is licensed under the terms of the GNU V.3 license.
+//
 //--------------------------------------------------------------------
 
 
