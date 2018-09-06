@@ -3,6 +3,11 @@
 Car Simulator pedals for Arduino, I work with occasionally to develop.
 If you want to develop this project feel free to do pull request to this repository.
 
+Things todo:
+* Update to support never version of MHeironimus/ArduinoJoystickLibrary
+* Work with better feeling in pedals
+* Maybe modify code to use rX rY and rZ axis to better reflect usual pedals axis.
+
 This Arduino pedals have gas, brake and clutch and use a Arduino (Windows native drivers) to connect to usb port.
 
 
