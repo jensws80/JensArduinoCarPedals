@@ -8,6 +8,7 @@ Things todo:
 * Work with better feeling in pedals
 * Maybe modify code to use rX rY and rZ axis to better reflect usual pedals axis.
 
+
 This Arduino pedals have gas, brake and clutch and use a Arduino (Windows native drivers) to connect to usb port.
 
 
