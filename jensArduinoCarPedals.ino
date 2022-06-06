@@ -18,6 +18,8 @@
 
 #include <Joystick.h>
 
+Joystick_ Joystick;
+
 // Variable
 int gas = A0;
 int brake = A1; 
